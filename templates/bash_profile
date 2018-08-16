@@ -12,4 +12,4 @@ export GIT_SSL_NO_VERIFY=true
 
 # source mozart virtualenv
 export MOZART_DIR=$HOME/mozart
-source $MOZART_DIR/bin/activate
+source $HOME/anaconda/bin/activate $MOZART_DIR
